@@ -1,4 +1,4 @@
----
+repo.temporary_access_granted---
 title: Auditing SSH keys
 intro: Site administrators can initiate an instance-wide audit of SSH keys.
 redirect_from:
